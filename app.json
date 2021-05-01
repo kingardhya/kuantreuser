@@ -1,0 +1,12 @@
+{
+  "name": "kuantreuser",
+  "displayName": "kuantreuser",
+  "expo": {
+    "name": "kuantreuser",
+    "slug": "kuantreuser",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
